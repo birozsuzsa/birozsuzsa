@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @birozsuzsa:
 - prof.: 10+ years financial analysis/controlling experience
 - technical skills: MS Office (esp. Excel, VBA), SAP FICO, Jedox
-- languages: HU, EN, DE, (ITA)
+- languages: HU, EN, DE
 - hobbies: data, home diy, gardening and yoga
 
 - 👀 I’m interested in: data analysis, process automation, data science, data visualization
